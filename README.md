@@ -1,2 +1,5 @@
-# IBSI_HOTEL
-SIte de reservation de chambre d'hotel, Projet BAC 2 HELHa MONS
+# IBSI-HOTEL
+School project, creation of an online booking site for a hotel
+
+admin
+admin
